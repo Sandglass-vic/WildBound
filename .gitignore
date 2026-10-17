@@ -1,0 +1,6 @@
+# release binaries are uploaded to GitHub Releases, never committed
+*.zip
+*.app/
+*.exe
+*.pck
+.DS_Store
