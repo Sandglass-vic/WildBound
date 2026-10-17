@@ -51,4 +51,9 @@ WASD 移动，Shift 冲刺，空格跳跃，C / Ctrl 蹲下，鼠标视角，F �
 
 ## 反馈 · Feedback
 
-遇到问题欢迎在 [Issues](https://github.com/Sandglass-vic/WildBound/issues) 里反馈，附上系统版本和显卡型号。
+遇到问题欢迎在 [Issues](https://github.com/Sandglass-vic/WildBound/issues) 里反馈，附上系统版本、显卡型号和内存大小，最好再附上游戏日志 `godot.log`：
+
+- Windows：`%APPDATA%\Godot\app_userdata\Wildbound\logs\godot.log`（在资源管理器地址栏粘贴 `%APPDATA%\Godot\app_userdata\Wildbound\logs` 回车）
+- macOS：`~/Library/Application Support/Godot/app_userdata/Wildbound/logs/godot.log`
+
+Please attach your OS, GPU, RAM and the `godot.log` above when reporting a problem.
